@@ -2,8 +2,8 @@ rscomponents.test:
   url: https://uk.rs-online.com
   searchTestDataFile: SearchFilterTestData.csv
   endToEndTestDataFile: EndToEndTestData.csv
-  userName: putYourUserName
-  password: putYourPassword
+  userName: EnterYourUserName
+  password: EnterYourPassword
 rscomponents.system:
   selectedBrowser: chrome
   browserFolder: browserdrivers
